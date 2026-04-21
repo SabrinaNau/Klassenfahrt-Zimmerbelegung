@@ -1,0 +1,2 @@
+# Klassenfahrt-Zimmerbelegung
+Programmieraufgabe zusammen
